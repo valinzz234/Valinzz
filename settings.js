@@ -10,9 +10,9 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ['6282113821188'] //['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
-global.packname = 'Bot WhatsApp'
+global.author = 'Valinzz'
+global.botname = '『 ᴠᴀʟɪɴᴢᴢ 』✘'
+global.packname = 'Bot valinzz'
 global.listprefix = ['+','!','.']
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
@@ -82,3 +82,6 @@ fs.watchFile(file, () => {
 	require(file)
 
 });
+.daftar
+.level
+
